@@ -22,6 +22,6 @@ Welcome to the dog breed classifier project. This project uses Convolutional Neu
 8. Test Your Algorithm
 
 ## Conclusions
-1.The model was able to reach an accuracy of 80.2632% on test data.
-2.If a dog image is supplied, the model gives a prediction of the dog breed.
+1. The model was able to reach an accuracy of 80.2632% on test data.
+2. If a dog image is supplied, the model gives a prediction of the dog breed.
 3. For more better results, the model can be trained by adding more layers to CNN network, increasing training time by adding more epochs and performing hyperparameter tuning, such as different combinations of learning rate, batch size or optimizers.
